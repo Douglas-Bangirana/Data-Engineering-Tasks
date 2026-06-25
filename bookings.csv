@@ -1,0 +1,31 @@
+booking_id,customer_name,service,amount,status,booking_date
+1,Amina,Visa,120,paid,01-05-26
+2,John,Passport,80,pending,01-07-26
+3,Sarah,Visa,150,paid,01-10-26
+4,Paul,Travel Insurance,200,paid,01-12-26
+5,Grace,Flight Ticket,450,pending,1/15/2026
+6,David,Hotel Booking,300,paid,1/18/2026
+7,Fatima,Visa,180,cancelled,1/20/2026
+8,Robert,Passport,100,paid,1/22/2026
+9,Mary,Travel Insurance,250,pending,1/25/2026
+10,James,Flight Ticket,600,paid,1/28/2026
+11,,Visa,130,paid,02-01-26
+12,Alice,Passport,90,,02-03-26
+13,Michael,Travel Insurance,-220,pending,02-05-26
+14,Nancy,Flight Ticket,500,paid,02-08-26
+15,Tom,Hotel Booking,280,cancelled,02-10-26
+16,Rose,Visa,-160,paid,02-12-26
+17,Sam,Passport,85,paid,2/15/2026
+18,Emma,Travel Insurance,270,,2/18/2026
+19,Daniel,Flight Ticket,550,paid,2/20/2026
+20,Monica,Hotel Booking,320,paid,2/22/2026
+21,Joseph,Visa,140,cancelled,2/25/2026
+22,,Passport,95,pending,2/27/2026
+23,Charles,Travel Insurance,230,paid,03-01-26
+24,Elizabeth,Flight Ticket,-480,paid,03-03-26
+25,Mark,Hotel Booking,350,pending,03-05-26
+26,Peter,Visa,130,paid,02-01-26
+27,Nancy,Flight Ticket,500,paid,02-08-26
+28,James,Flight Ticket,600,paid,1/28/2026
+29,David,Hotel Booking,300,paid,1/18/2026
+30,Charles,Travel Insurance,230,paid,03-01-26
