@@ -1,0 +1,31 @@
+payment_id,booking_id,customer_name,amount,method,status,payment_date
+1,1,Amina,120,Mobile Money,success,01-05-26
+2,2,John,80,Cash,failed,01-08-26
+3,3,Sarah,150,Card,success,01-10-26
+4,4,Paul,200,Mobile Money,success,1/13/2026
+5,5,Grace,450,Bank Transfer,pending,1/16/2026
+6,6,David,300,Card,success,1/18/2026
+7,7,Fatima,180,Mobile Money,refunded,1/21/2026
+8,8,Robert,100,Cash,success,1/22/2026
+9,9,Mary,250,Bank Transfer,pending,1/26/2026
+10,10,James,600,Card,success,1/28/2026
+11,11,,130,Mobile Money,success,02-01-26
+12,12,Alice,90,Cash,,02-03-26
+13,13,Michael,-220,Bank Transfer,pending,02-06-26
+14,14,Nancy,500,Card,success,02-08-26
+15,15,Tom,280,Mobile Money,refunded,02-11-26
+16,16,Rose,-160,Card,success,02-12-26
+17,17,Sam,85,Cash,success,2/15/2026
+18,18,Emma,270,Bank Transfer,,2/19/2026
+19,19,Daniel,550,Card,success,2/20/2026
+20,20,Monica,320,Mobile Money,success,2/23/2026
+21,21,Joseph,140,Cash,refunded,2/26/2026
+22,22,,95,Bank Transfer,pending,2/28/2026
+23,23,Charles,230,Card,success,03-01-26
+24,24,Elizabeth,-480,Mobile Money,success,03-03-26
+25,25,Mark,350,Bank Transfer,pending,03-06-26
+26,11,Peter,130,Card,success,03-08-26
+27,14,Nancy,500,Mobile Money,success,03-10-26
+28,10,James,600,Cash,success,03-12-26
+29,6,David,300,Bank Transfer,success,3/15/2026
+30,23,Charles,230,Mobile Money,success,3/18/2026
