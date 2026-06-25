@@ -2,6 +2,7 @@
 # Processes the payments dataset. We use filters to check specific conditions
 # (like tracking string matches for 'success' or 'failed') and isolate key 
 # consumer behavior metrics.
+from payments import payments 
 
 print(f"1. Total successful payments: {sum(1 for p in payments if p['status'] == 'success')}")
 print(f"2. Total failed payments: {sum(1 for p in payments if p['status'] == 'failed')}")
