@@ -3,6 +3,8 @@
 # standard dictionaries. To find specific records like max amount, we
 # utilize Python's built-in 'max()' function with a key parameter.
 
+from bookings import bookings 
+
 print("--- 1. Count Bookings by Service ---")
 service_counts = {}
 for r in bookings:
