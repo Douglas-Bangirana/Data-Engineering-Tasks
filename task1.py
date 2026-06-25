@@ -3,6 +3,8 @@
 # conditional 'if' statements, and basic aggregations (len, sum) 
 # to isolate and print targeted metrics.
 
+from bookings import bookings
+
 print("--- 1. All Booking Records ---")
 for record in bookings:
     print(record)
