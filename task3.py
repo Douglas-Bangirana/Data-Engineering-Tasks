@@ -3,6 +3,8 @@
 # functions. We leverage list comprehensions and dictionary tracking to 
 # keep code modular and cleanly reusable.
 
+from bookings import bookings 
+
 def get_paid_bookings(bookings):
     return [r for r in bookings if r["status"] == "paid"]
 
